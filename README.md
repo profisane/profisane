@@ -2,7 +2,7 @@
 
 👋Olá, meu nome é Isane.
 
-👩‍🏫Sou professora das disciplinas de Pensamento Computacional, Programação e Robótica.
+👩‍🏫Sou professora das disciplinas de Matemática, Pensamento Computacional, Programação e Robótica.
 
 👩‍🎓Sou graduada em Licenciatura em Matemática pela Universidade Estadual do Paraná (Unespar) Campus de União da Vitória.
 
